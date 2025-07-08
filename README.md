@@ -1,71 +1,67 @@
-# Marketing-Analytics
-# 📊 Marketing Analytics Portfolio Project
+# 📊 Marketing Analytics Portfolio Project – ShopEasy
 
-Welcome to my Marketing Analytics Portfolio Project! This project focuses on solving real-world marketing problems using data analysis and visualization to drive actionable insights for a fictional retail company called **ShopEasy**.
-
----
-
-## 🧠 Business Case Overview
-
-**Client:** ShopEasy (Online Retailer)  
-**Problem:** Despite high investment in marketing, the company is facing:
-- Decreased conversion rates
-- Reduced customer engagement
-- High marketing expenses with low ROI
-- Low customer satisfaction for certain products
+Welcome to my **Marketing Analytics Portfolio Project**, where I solve real-world business problems using data analysis, SQL, Excel, and Python (NLP). This case study is centered around a fictional e-commerce company called **ShopEasy**, aiming to improve its marketing strategy through data-driven insights.
 
 ---
 
-## 📌 Objectives
+## 🧠 Business Problem
 
-1. **Increase Conversion Rates**
-   - Identify weak points in the conversion funnel
-   - Suggest targeted improvements based on monthly trends
+ShopEasy, an online retail business, is struggling with:
+- Declining conversion rates
+- Reduced engagement across digital platforms
+- High marketing spend with low return on investment
+- Mixed customer feedback and stagnant satisfaction levels
 
-2. **Enhance Customer Engagement**
-   - Analyze engagement levels by content type (blogs, videos, social media)
-   - Recommend strategies to boost interactions
+They approached a marketing analyst (me) to investigate and recommend improvements using available data.
 
-3. **Improve Customer Feedback Scores**
-   - Perform sentiment analysis on customer reviews
-   - Highlight areas for service and product improvement
+---
+
+## 🎯 Project Objectives
+
+- Analyze customer conversion trends over the year
+- Identify product performance patterns
+- Measure content engagement (clicks, views, likes)
+- Perform sentiment analysis on customer reviews
+- Clean and transform raw data for deeper insights
+- Recommend actions to boost ROI and customer satisfaction
+
+---
+
+## 🔧 Tools & Technologies Used
+
+- **SQL** – for data extraction, transformation, and aggregation  
+- **Microsoft Excel** – for dashboards, pivot analysis, and KPI tracking  
+- **Python (NLTK/VADER)** – for text-based sentiment analysis of customer reviews  
+- **PowerPoint** – for presenting insights to stakeholders
 
 ---
 
 ## 📈 Key Insights
 
-### 🔹 Conversion Rate Analysis
-- Lowest rate in **May (4.3%)** – marketing strategies need improvement
-- Highest rate in **January (18.5%)** – Ski Boots had an exceptional **150% conversion**
-- Strong seasonal trends observed in **February** and **July**
-
-### 🔹 Customer Engagement
-- **Click-through rate:** 15.37%, indicating effective engagement among active users
-- **Blog content** had the highest reach; however, interaction rates are low
-- Engagement dropped from **August–December**, indicating content fatigue or weak targeting
-
-### 🔹 Customer Feedback Analysis
-- **Average Rating:** 3.7 (below the target of 4.0)
-- **Majority reviews:** Positive (4 & 5 stars), but 82 negative reviews show room for improvement
-- **Sentiment Breakdown:** Mostly positive (275), with some mixed and negative feedback that needs to be addressed
+- Conversion peaked in **January (18.5%)** and dropped significantly in **May (4.3%)**
+- **Ski Boots** and **Kayaks** showed extremely high conversion during seasonal months
+- **Blog content** received the most views, but user engagement declined after August
+- **Average review rating** was 3.7 out of 5, with opportunities to improve ratings for underperforming products
+- Sentiment analysis revealed a high volume of positive feedback but also highlighted common themes in mixed and negative reviews
 
 ---
 
-## 🎯 Recommended Actions
+## ✅ Business Recommendations
 
-| Goal | Recommended Strategy |
-|------|----------------------|
-| 🔼 Increase Conversions | Focus on high-performing products like **Kayaks** and **Ski Boots**. Launch seasonal promotions. |
-| 🎥 Boost Engagement | Create **interactive content**, optimize CTAs, and use **user-generated content**. |
-| 💬 Improve Ratings | Analyze negative reviews, implement fixes, and reach out to dissatisfied customers for feedback. |
+- Focus on **high-performing products** with targeted campaigns during peak months
+- Revamp content strategy with **more interactive formats** and optimized CTAs
+- Address customer pain points found in mixed reviews to improve satisfaction
+- Use data-backed feedback loops to continuously refine marketing efforts
 
 ---
 
-## 📊 Tools & Technologies Used
+## 📁 Project Deliverables
 
-- **Power BI**: Interactive dashboard for KPI tracking and visual storytelling
-- **Excel / CSV**: Data preprocessing and cleaning
-- **PPT / Slides**: Business case presentation and reporting
+- A business case presentation summarizing findings and actions  
+- Excel dashboard and visual reports  
+- SQL scripts for data cleaning, transformation, and analysis  
+- Python sentiment analysis with categorized insights  
+- This README file documenting the project
 
-
+---
 
